@@ -1,5 +1,5 @@
 
-  # Syllabo University Web App
+  # Syllabo University Web App Prototype
 
   ## Running the code
 
